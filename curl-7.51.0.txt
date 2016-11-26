@@ -1,4 +1,4 @@
-¶¯Ì¬¿â
+¶¯Ì¬¿â dll
 
 USE_OPENSSL
 USE_ZLIB
@@ -14,7 +14,7 @@ WIN32_LEAN_AND_MEAN
 L_ENDIAN
 DSO_WIN32
 
-¾²Ì¬¿â
+¾²Ì¬¿â static lib
 
 CURL_STATICLIB
 USE_OPENSSL

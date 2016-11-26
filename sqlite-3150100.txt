@@ -1,4 +1,5 @@
-¶¯Ì¬¿â
+¶¯Ì¬¿â dll
+-----------------------
 
 SQLITE_ENABLE_COLUMN_METADATA
 SQLITE_ENABLE_RTREE
