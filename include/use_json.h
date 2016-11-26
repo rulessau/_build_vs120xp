@@ -1,5 +1,5 @@
-#ifndef __EASYUSE_CURL_H__
-#define __EASYUSE_CURL_H__
+#ifndef __EASYUSE_JSON_H__
+#define __EASYUSE_JSON_H__
 
 #if defined(EASYUSE_DLL)
 
@@ -9,4 +9,4 @@
 
 #include "json/json.h"
 
-#endif // __EASYUSE_CURL_H__
+#endif // __EASYUSE_JSON_H__

@@ -6,5 +6,6 @@
 #pragma comment(lib, "libzip.lib")
 #pragma comment(lib, "libcrypto.lib")
 #pragma comment(lib, "libssl.lib")
+#pragma comment(lib, "crypt32.lib")
 
 #endif // __EASYLINK_CURL_H__

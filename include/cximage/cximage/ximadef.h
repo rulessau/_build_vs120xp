@@ -93,7 +93,7 @@ typedef struct tagcomplex {
 #endif
 
 #if defined(WIN32) || defined(_WIN32_WCE)
- #include "stdint.h"
+#include <stdint.h>
 #endif
 
 #if !defined(WIN32) && !defined(_WIN32_WCE)

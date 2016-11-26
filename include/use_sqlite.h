@@ -1,5 +1,5 @@
-#ifndef __EASYUSE_CURL_H__
-#define __EASYUSE_CURL_H__
+#ifndef __EASYUSE_SQLITE_H__
+#define __EASYUSE_SQLITE_H__
 
 // sqlite now only support dll, don't have static lib
 #define SQLITE_ENABLE_COLUMN_METADATA
@@ -7,4 +7,4 @@
 
 #include "sqlite/sqlite3.h"
 
-#endif // __EASYUSE_CURL_H__
+#endif // __EASYUSE_SQLITE_H__
